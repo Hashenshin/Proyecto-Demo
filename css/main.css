@@ -1,0 +1,14 @@
+body{
+
+    background: url(https://w.wallhaven.cc/full/e7/wallhaven-e7ek7k.jpg);
+    color: white;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
